@@ -57,6 +57,10 @@ while isRaceon:
         turtles.forward(rand_distance)
 
 screen.exitonclick()
+
+## Output:
+https://app.screencast.com/proONfWYih76a
+
 ## Conclusion
 The main race loop moves each turtle forward by a random distance in each iteration. If a turtle reaches the finish line (x-coordinate > 230), the race ends. The program then checks if the winning turtle's color matches the user's bet and displays the result.
 
